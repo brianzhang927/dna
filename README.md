@@ -1,5 +1,5 @@
 # DNA
-A program written in python that can identify a person based on their DNA sequence
+A program written in python that takes a sequence of DNA and a CSV file with STR counts to identify to whom the DNA most likely belongs.
 
 ### Motivation
 This was motivated by Harvard's CS50 and partly includes their distribution code and texts.
